@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nibbs.decrypto</groupId>
   <artifactId>bcprov</artifactId>
-  <version>1.45</version>
+  <version>1.0</version>
   <description>POM was created from install:install-file</description>
 </project>
